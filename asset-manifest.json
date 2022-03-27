@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/okputu-e/ran-quote-machine/static/css/main.d518cef3.css",
-    "main.js": "/okputu-e/ran-quote-machine/static/js/main.7804fdf4.js",
-    "index.html": "/okputu-e/ran-quote-machine/index.html",
-    "main.d518cef3.css.map": "/okputu-e/ran-quote-machine/static/css/main.d518cef3.css.map",
-    "main.7804fdf4.js.map": "/okputu-e/ran-quote-machine/static/js/main.7804fdf4.js.map"
+    "main.css": "/ran-quote-machine/static/css/main.d518cef3.css",
+    "main.js": "/ran-quote-machine/static/js/main.7804fdf4.js",
+    "index.html": "/ran-quote-machine/index.html",
+    "main.d518cef3.css.map": "/ran-quote-machine/static/css/main.d518cef3.css.map",
+    "main.7804fdf4.js.map": "/ran-quote-machine/static/js/main.7804fdf4.js.map"
   },
   "entrypoints": [
     "static/css/main.d518cef3.css",
